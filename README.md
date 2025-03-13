@@ -1,4 +1,4 @@
-![web assignment 3](https://github.com/user-attachments/assets/b0685209-da8e-4653-af34-ea1e9cd7d418)# Ex03 Time Table
+## Ex03 Time Table
 ## Date: 13/03/2025
 
 ## AIM
